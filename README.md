@@ -1,4 +1,4 @@
 # Rock Paper Scissor AI
 
 Ever felt bored alone? Let's play rock, paper, and scissors against an interactive system powered with intelligence. :D
-The Demo Video is available at: 
+The Demo Video is available at: https://youtu.be/KHPwITtZUrI
