@@ -315,7 +315,7 @@ Now I have taken the chart and sliced it into three sections, for rock, paper, a
 ## Working of the Project 🔭
 And now, it's playtime. Let's see the working of the project.
 
-![Image](./images/op.png.png)
+![Image](./images/op.png)
 
 [![Working Video](./images/youtube.png)](https://youtu.be/2lwCU4bWY0c "Working of the Project - Click to Watch!")
 
