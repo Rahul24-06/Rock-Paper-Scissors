@@ -33,6 +33,8 @@ Winner will be decided based on the above three conditions.
 
 Let's see a quick demo of the project here.
 
+### Click on the image to view the project demo
+
 [![Working Video](./images/youtube.png)](https://youtu.be/KHPwITtZUrI "Working of the Project - Click to Watch!")
 
 ## Getting Started 🎬
@@ -316,6 +318,8 @@ Now I have taken the chart and sliced it into three sections, for rock, paper, a
 And now, it's playtime. Let's see the working of the project.
 
 ![Image](./images/op.png)
+
+### Click on the image to view the project demo
 
 [![Working Video](./images/youtube.png)](https://youtu.be/2lwCU4bWY0c "Working of the Project - Click to Watch!")
 
