@@ -328,7 +328,7 @@ And now, it's playtime. Let's see the working of the project.
 
 *Share this video if you like.*
 
-*Blog - https://rahulthelonelyprogrammer.blogspot.in/*
+*Blog - https://rahulthelonelyprogrammer.blogspot.com/*
 
 *Github - https://github.com/Rahul24-06*
 
